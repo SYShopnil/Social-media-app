@@ -1,0 +1,21 @@
+.navbarWrap {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-bottom: 1px solid #E8E7E8;
+}
+.navTextColor {
+    color: #373537; 
+    text-decoration: none;
+    font-weight: bold !important;
+    font-size: 1.1rem;
+}
+.navTextColor:hover {
+    color: #373537
+}
+.active {
+    background-color: #E8E7E8;
+}
+.inactive {
+     background-color: none ;
+}

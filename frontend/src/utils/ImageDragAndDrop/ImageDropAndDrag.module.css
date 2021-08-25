@@ -1,0 +1,9 @@
+.draDropWrap {
+    width:100%;
+    min-height: 250px;
+    background-color: #F3F4F4;
+}
+.defaultDragAndDropDisplayPart {
+    height: 250px;
+    text-align: center;
+}

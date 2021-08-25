@@ -1,0 +1,9 @@
+.inputWrap {
+  border-style: none !important;
+}
+.inputGroup {
+  border: 1px solid #f1f0f2 !important;
+  border-radius: 5px;
+  justify-content: center !important;
+  align-items: center !important;
+}
